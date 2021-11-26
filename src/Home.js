@@ -12,7 +12,14 @@ function Home() {
 					<div class="restName">
 						<h1> Hoi Sing </h1>
 					</div>
-
+					<hr
+						style={{
+							color: '#000000',
+							backgroundColor: '#ffffff ',
+							height: 0.5,
+							borderColor: '#ffffff',
+						}}
+					/>
 					<div class="restDescription">
 						<dl> Welkom </dl>
 						<dt>
@@ -31,7 +38,14 @@ function Home() {
 							gerecht hieraan aanpassen.
 						</dt>
 					</div>
-
+					<hr
+						style={{
+							color: '#000000',
+							backgroundColor: '#ffffff ',
+							height: 0.5,
+							borderColor: '#ffffff',
+						}}
+					/>
 					<div class="pageFooter">
 						{/*	<br> </br> */}
 						<p>©HOI SING ALL RIGHTS RESERVED </p>

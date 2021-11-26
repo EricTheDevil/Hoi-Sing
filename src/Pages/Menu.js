@@ -11,7 +11,7 @@ function Menu() {
 							<hr
 								style={{
 									color: '#000000',
-									backgroundColor: '#000000',
+									backgroundColor: '#ffffff ',
 									height: 0.5,
 									borderColor: '#000000',
 								}}
@@ -81,7 +81,14 @@ function Menu() {
 									<td class="RightHolder">4.70€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -141,7 +148,14 @@ function Menu() {
 									<td class="RightHolder">2.80€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -180,7 +194,14 @@ function Menu() {
 									<td class="RightHolder">15.80€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -214,7 +235,14 @@ function Menu() {
 									<td class="RightHolder">16.80€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -258,7 +286,14 @@ function Menu() {
 									<td class="RightHolder">11.00€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -327,7 +362,14 @@ function Menu() {
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -377,7 +419,14 @@ function Menu() {
 									<td class="RightHolder">11.00€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -424,7 +473,14 @@ function Menu() {
 									<td class="RightHolder">11.00€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -467,7 +523,14 @@ function Menu() {
 									<td class="RightHolder">11.00€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -496,7 +559,14 @@ function Menu() {
 									<td class="RightHolder">16.50€</td>
 								</tr>
 							</table>
-							{/*					{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -653,7 +723,14 @@ function Menu() {
 								<tr></tr>
 								<tr></tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -678,7 +755,14 @@ function Menu() {
 									<td class="RightHolder">15.80€</td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -705,7 +789,14 @@ function Menu() {
 									<td class="RightHolder">15.50€</td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 							<table>
 								<tr>
 									<td></td>
@@ -768,7 +859,14 @@ function Menu() {
 									<td class="RightHolder">9.50€</td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
@@ -871,7 +969,14 @@ function Menu() {
 									<td class="RightHolder">16.50€</td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
@@ -909,7 +1014,14 @@ function Menu() {
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
@@ -949,7 +1061,14 @@ function Menu() {
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
@@ -989,7 +1108,14 @@ function Menu() {
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
@@ -1034,7 +1160,14 @@ function Menu() {
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
@@ -1079,7 +1212,14 @@ function Menu() {
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
-							{/*{/*<hr> */}
+							<hr
+								style={{
+									color: '#000000',
+									backgroundColor: '#ffffff ',
+									height: 0.5,
+									borderColor: '#ffffff',
+								}}
+							/>
 
 							<table>
 								<tr>
