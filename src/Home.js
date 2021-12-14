@@ -3,6 +3,7 @@ import './App.css';
 import { Switch, Route, Link } from 'react-router-dom';
 import Contact from './Pages/Contact';
 import Menu from './Pages/Menu';
+import menuImage from './Images/Menu.JPG';
 
 function Home() {
 	return (
@@ -92,6 +93,7 @@ function Home() {
 							<p> Nieuwe openingsuren</p>
 							<p> Maandag t/m zaterdag van 17:00 tot 21:30</p>
 							<p> Zondag en feestdagen van 12:00 tot 22:00</p>
+							<img src={menuImage} alt="menu" width="600" height="450"></img>
 						</div>
 					</div>
 				</div>
