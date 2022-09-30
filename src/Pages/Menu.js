@@ -703,7 +703,7 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">77.</td>
 									<td class="MiddleHolder">Geroosterd varkensfilet</td>
-									<td class="RightHolder">12.20€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">78.</td>
