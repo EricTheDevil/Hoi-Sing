@@ -1003,14 +1003,10 @@ function Menu() {
 									<td class="MiddleHolder">Nasi met kip</td>
 									<td class="RightHolder"></td>
 								</tr>
+			
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">of halve kip met curry</td>
-									<td class="RightHolder"></td>
-								</tr>
-								<tr>
-									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">of chop shoy met kip</td>
+									<td class="MiddleHolder">of Bami met kip</td>
 									<td class="RightHolder"></td>
 								</tr>
 								<tr>
@@ -1263,7 +1259,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">92.00€</td>
+									<td class="MiddleHolder">95.00€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
