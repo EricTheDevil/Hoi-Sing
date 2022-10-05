@@ -885,14 +885,7 @@ function Menu() {
 										Nestje met geewokte zeevruchten en seizoensgroenten{' '}
 									</td>
 									<td class="RightHolder">20.50€</td>
-								</tr>
-								/*
-								<tr>
-									<td class="LeftHolder">A13.</td>
-									<td class="MiddleHolder">Gewokte visfilet</td>
-									<td class="RightHolder">15.50€</td>
-								</tr>
-								*/
+								</tr>										
 								<tr>
 									<td class="LeftHolder">A14.</td>
 									<td class="MiddleHolder">Gewokte Sint-Jakobsschelpen </td>
