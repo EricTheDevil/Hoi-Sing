@@ -84,15 +84,10 @@ function Home() {
 
 					<div class="menuContainer">
 						<div id="itemHome">
-							<h1> Home </h1>
-							<p>
-								We zijn gesloten vanaf 14/11/2022 tot 3/12/2022
-							</p>
+							<h1> Home </h1>				
 							<p> Nieuwe openingsuren</p>
 							<p> Maandag t/m zaterdag van 17:00 tot 21:30</p>
 							<p> Zondag en feestdagen van 12:00 tot 22:00</p>	
-
-							<p> <b>Prijzenlijst verniewd! </b> </p>
 
 						</div>
 					</div>
