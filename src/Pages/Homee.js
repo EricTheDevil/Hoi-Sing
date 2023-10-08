@@ -72,7 +72,7 @@ function Homee() {
 						<div id="itemHome">
 							<h1> Home </h1>
 							<p>
-								We zijn terug open, U kunt binnen eten en afhalen.
+								We zijn gesloten tot en met 1 november
 							</p>
 							<p> Nieuwe openingsuren</p>
 							<p> Maandag t/m zaterdag van 17:00 tot 21:30</p>
