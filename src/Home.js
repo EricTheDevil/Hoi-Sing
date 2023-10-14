@@ -86,7 +86,7 @@ function Home() {
 						<div id="itemHome">
 							<h1> Home </h1>		
 							<p> We zijn gesloten tot en met 1 november</p>
-							<hr>
+							<hr> </hr>
 							<p> Nieuwe openingsuren</p>
 							<p> Maandag t/m zaterdag van 17:00 tot 21:30</p>
 							<p> Zondag en feestdagen van 12:00 tot 22:00</p>	
