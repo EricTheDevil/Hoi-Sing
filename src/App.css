@@ -123,3 +123,6 @@ ul {
 .new-line {
 	white-space: pre-line;
 }
+.menuContainer {
+	padding-bottom: 1rem;
+}
