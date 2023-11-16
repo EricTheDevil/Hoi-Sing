@@ -85,7 +85,6 @@ function Home() {
 					<div class="menuContainer">
 						<div id="itemHome">
 							<h1> Home </h1>		
-							<p> We zijn gesloten tot en met 31 october</p>
 							<hr
 								style={{
 									color: '#000000',
