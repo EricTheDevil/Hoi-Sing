@@ -159,7 +159,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Curryschotels (met rijst of frieten)</th>
+									<th> Curryschotels (met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -205,7 +205,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Tomatensaus (met rijst of frieten)</th>
+									<th> Tomatensaus (met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -246,7 +246,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Chop Shoy (met rijst of frieten)</th>
+									<th> Chop Shoy (met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -484,7 +484,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Zoetzure schotels(met rijst of frieten)</th>
+									<th> Zoetzure schotels(met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -534,7 +534,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Omelet(met rijst of frieten)</th>
+									<th> Omelet(met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -570,7 +570,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Specialiteiten(met rijst of frieten)</th>
+									<th> Specialiteiten(met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -739,7 +739,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Inktvis(met rijst of frieten)</th>
+									<th> Inktvis(met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -771,7 +771,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th> Gerechten in een potje(met rijst of frieten)</th>
+									<th> Gerechten in een potje(met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -876,7 +876,7 @@ function Menu() {
 							<table>
 								<tr>
 									<td></td>
-									<th>Hoofdschotels (met rijst of frieten)</th>
+									<th>Hoofdschotels (met rijst of frieten + 1,80€)</th>
 								</tr>
 
 								<tr>
@@ -1197,7 +1197,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">Nasi speciaal</td>
+									<td class="MiddleHolder">Nasi </td>
 									<td class="RightHolder"></td>
 								</tr>
 								<tr>
@@ -1247,7 +1247,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">Nasi speciaal</td>
+									<td class="MiddleHolder">Nasi </td>
 									<td class="RightHolder"></td>
 								</tr>
 								<tr>
