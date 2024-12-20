@@ -93,7 +93,7 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
-							<p style="color: red">Vanwege een technisch probleem met onze telefoonlijnen verzoeken wij u vriendelijk om te bellen naar: +32 470 58 11 92</p>
+							<p style={{ color: 'yellow' }}>Vanwege een technisch probleem met onze telefoonlijnen verzoeken wij u vriendelijk om te bellen naar: +32 470 58 11 92</p>
 							<hr
 								style={{
 									color: '#000000',
@@ -110,11 +110,12 @@ function Home() {
 								style={{
 									color: '#000000',
 									backgroundColor: '#ffffff ',
-									height: 0.5,
+									height: 5,
 									borderColor: '#000000',
 								}}
 							/>
 							<img src={menuImage} alt="menu" width="600" height="450"></img>
+
 						</div>
 					</div>			
 				</div>
