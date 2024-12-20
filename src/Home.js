@@ -93,6 +93,8 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
+							<p style="color: red">Vanwege een technisch probleem met onze telefoonlijnen verzoeken wij u vriendelijk om te bellen naar: +32 470 58 11 92</p>
+							<hr> 
 							<p> Nieuwe openingsuren</p>
 							<p> Maandag t/m zaterdag van 17:00 tot 21:30</p>
 							<p> Woensdag gesloten </p>
