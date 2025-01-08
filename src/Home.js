@@ -93,7 +93,7 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
-							<p style={{ color: 'yellow' }}>Vanwege een technisch probleem met onze telefoonlijnen verzoeken wij u vriendelijk om te bellen naar: +32 470 58 11 92</p>
+							<p style={{ color: 'yellow' }}>Onze telefoonlijnen zijn nu gerepareerd. Wij informeren u dat wij vanaf 2 februari uitsluitend afhaalmaaltijden aanbieden. Het is vanaf dan niet meer mogelijk om binnen te eten. Bedankt voor uw begrip.</p>
 							<hr
 								style={{
 									color: '#000000',
@@ -114,7 +114,6 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
-							<img src={menuImage} alt="menu" width="600" height="450"></img>
 
 						</div>
 					</div>			
