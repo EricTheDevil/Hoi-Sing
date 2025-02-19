@@ -103,9 +103,9 @@ function Home() {
 								}}
 							/>
 							<p> Nieuwe openingsuren</p>
-							<p> Maandag t/m zaterdag van 17:00 tot 21:30</p>
+							<p> Maandag t/m zaterdag van 17:00 tot 21:00</p>
 							<p> Woensdag gesloten </p>
-							<p> Zondag en feestdagen van 12:00 tot 22:00</p>	
+							<p> Zondag en feestdagen van 12:00 tot 14:00 en 17:00 tot 21:00</p>	
 							<hr
 								style={{
 									color: '#000000',
