@@ -93,7 +93,6 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
-							<p> Wij zijn gesloten vanaf 08/03/2025 tot en met 27/03/2025.</p>
 							<p style={{ color: 'yellow' }}> Wij informeren u dat wij vanaf 2 februari uitsluitend afhaalmaaltijden aanbieden. Het is vanaf dan niet meer mogelijk om binnen te eten. Bedankt voor uw begrip.</p>
 							<hr
 								style={{
