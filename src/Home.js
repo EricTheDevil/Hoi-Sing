@@ -93,7 +93,9 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
-							<p style={{ color: 'yellow' }}> Wij informeren u dat wij vanaf 2 februari uitsluitend afhaalmaaltijden aanbieden. Het is vanaf dan niet meer mogelijk om binnen te eten. Bedankt voor uw begrip.</p>
+							/* <p style={{ color: 'yellow' }}> Wij informeren u dat wij vanaf 2 februari uitsluitend afhaalmaaltijden aanbieden. Het is vanaf dan niet meer mogelijk om binnen te eten. Bedankt voor uw begrip.</p> */
+
+							<p style={{ color: 'yellow' }}> Wij zijn momenteel gesloten tot en met 12 Juli</p>
 							<hr
 								style={{
 									color: '#000000',
