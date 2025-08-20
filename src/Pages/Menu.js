@@ -41,19 +41,19 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">4.</td>
 									<td class="MiddleHolder">Haaivinnensoep met krab</td>
-									<td class="RightHolder">5.20€</td>
+									<td class="RightHolder">5.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">5.</td>
 									<td class="MiddleHolder">Haaivinnensoep met krip</td>
-									<td class="RightHolder">4.70€</td>
+									<td class="RightHolder">5.00€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">6.</td>
 									<td class="MiddleHolder">
 										Speciale soep(mix van vlees en vis)
 									</td>
-									<td class="RightHolder">5.50€</td>
+									<td class="RightHolder">5.70€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">7.</td>
@@ -63,7 +63,7 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">8.</td>
 									<td class="MiddleHolder">Pikante soep</td>
-									<td class="RightHolder">4.90€</td>
+									<td class="RightHolder">5.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">8a.</td>
@@ -165,18 +165,18 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">15.</td>
 									<td class="MiddleHolder">Gebraden 1/2 kip met curry</td>
-									<td class="RightHolder">10.90€</td>
+									<td class="RightHolder">11.50€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">16.</td>
 									<td class="MiddleHolder">Kipfillet met curry</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">17.</td>
 									<td class="MiddleHolder">Ossenhaas met curry</td>
-									<td class="RightHolder">13.50€</td>
+									<td class="RightHolder">13.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">18.</td>
@@ -186,12 +186,12 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">19.</td>
 									<td class="MiddleHolder">Scampi\s met curry</td>
-									<td class="RightHolder">16.90€</td>
+									<td class="RightHolder">17.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">20.</td>
 									<td class="MiddleHolder">Speciale currymix van het huis</td>
-									<td class="RightHolder">16.00€</td>
+									<td class="RightHolder">16.50€</td>
 								</tr>
 							</table>
 							<hr
@@ -211,28 +211,28 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">21.</td>
 									<td class="MiddleHolder">Gebraden 1/2 kip met tomatensaus</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.30€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">22.</td>
 									<td class="MiddleHolder">Kipfilet met tomatensaus</td>
-									<td class="RightHolder">11.50€</td>
+									<td class="RightHolder">11.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">23.</td>
 									<td class="MiddleHolder">Ossenhaas met tomatensaus</td>
-									<td class="RightHolder">13.50€</td>
+									<td class="RightHolder">13.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">24.</td>
 									<td class="MiddleHolder">Varkensfilet met tomatensaus</td>
-									<td class="RightHolder">11.50€</td>
+									<td class="RightHolder">11.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">25.</td>
 									<td class="MiddleHolder">Scampi's met tomatensaus</td>
-									<td class="RightHolder">16.90€</td>
+									<td class="RightHolder">17.30€</td>
 								</tr>
 							</table>
 							<hr
@@ -252,38 +252,38 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">26</td>
 									<td class="MiddleHolder">Chop Shoy speciaal</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">27.</td>
 									<td class="MiddleHolder">Chop Shoy met kip</td>
-									<td class="RightHolder">10.90€</td>
+									<td class="RightHolder">11.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">27a.</td>
 									<td class="MiddleHolder">Chop Shoy met 1/2 kip</td>
-									<td class="RightHolder">12.50€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">28.</td>
 									<td class="MiddleHolder">Chop Shoy met ossenhaas</td>
-									<td class="RightHolder">12.50€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">29.</td>
 									<td class="MiddleHolder">Chop Shoy met varkensfilet</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">31.</td>
 									<td class="MiddleHolder">Chop Shoy met scampi's</td>
-									<td class="RightHolder">16.00€</td>
+									<td class="RightHolder">16.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">32.</td>
 									<td class="MiddleHolder">Chop Shoy met garnalen</td>
-									<td class="RightHolder">13.00€</td>
+									<td class="RightHolder">13.50€</td>
 								</tr>
 							</table>
 							<hr
@@ -303,13 +303,13 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">33.</td>
 									<td class="MiddleHolder">Nasi speciaal(babi pangang sate)</td>
-									<td class="RightHolder">12.80€</td>
+									<td class="RightHolder">13.20€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">33a.</td>
 									<td class="MiddleHolder">Nasi speciaal(kip en ei)</td>
-									<td class="RightHolder">12.80€</td>
+									<td class="RightHolder">13.20€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">33b.</td>
@@ -324,37 +324,37 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">34a.</td>
 									<td class="MiddleHolder">Nasi met 1/2 kip</td>
-									<td class="RightHolder">12.30€</td>
+									<td class="RightHolder">12.80€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">35.</td>
 									<td class="MiddleHolder">Nasi met geroosterd varkensfilet</td>
-									<td class="RightHolder">11.00€</td>
+									<td class="RightHolder">11.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">36.</td>
 									<td class="MiddleHolder">Nasi met scampi's</td>
-									<td class="RightHolder">16.00€</td>
+									<td class="RightHolder">16.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">37.</td>
 									<td class="MiddleHolder">Nasi met krab</td>
-									<td class="RightHolder">16.00€</td>
+									<td class="RightHolder">16.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">38.</td>
 									<td class="MiddleHolder">Nasi met garnalen</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">38a.</td>
 									<td class="MiddleHolder">Nasi Singapore stijl</td>
-									<td class="RightHolder">12.30€</td>
+									<td class="RightHolder">12.60€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">38b.</td>
 									<td class="MiddleHolder">Nasi Say Chaw</td>
-									<td class="RightHolder">12.30€</td>
+									<td class="RightHolder">12.60€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
@@ -436,7 +436,7 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">40m</td>
 									<td class="MiddleHolder">Mihoen met kip</td>
-									<td class="RightHolder">12.50€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 
 								<tr>
@@ -449,28 +449,28 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">42m.</td>
 									<td class="MiddleHolder">Mihoen met assenhaas</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">43m.</td>
 									<td class="MiddleHolder">Mihoen met scampi's</td>
-									<td class="RightHolder">16.80€</td>
+									<td class="RightHolder">16.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">44m.</td>
 									<td class="MiddleHolder">Mihoen met garnalen</td>
-									<td class="RightHolder">13.50€</td>
+									<td class="RightHolder">13.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">44a.</td>
 									<td class="MiddleHolder">Mihoen Singapore stijl</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.30€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">44b.</td>
 									<td class="MiddleHolder">Mihoen Hoi Sing</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.30€</td>
 								</tr>
 							</table>
 							<hr
@@ -492,35 +492,35 @@ function Menu() {
 									<td class="MiddleHolder">
 										Gefrituurd vlees met zoetzure saus
 									</td>
-									<td class="RightHolder">12.50€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">46.</td>
 									<td class="MiddleHolder">Gefrituurd kip met zoetzure saus</td>
-									<td class="RightHolder">12.50€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">47.</td>
 									<td class="MiddleHolder">
 										Phoenix scampi's met zoetzure saus
 									</td>
-									<td class="RightHolder">16.80€</td>
+									<td class="RightHolder">16.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">48.</td>
 									<td class="MiddleHolder">Ribbetjes met zoetzure saus</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">49.</td>
 									<td class="MiddleHolder">Babi pangang</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">49a.</td>
 									<td class="MiddleHolder">Babi pangang met kip</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.50€</td>
 								</tr>
 							</table>
 							<hr
@@ -540,13 +540,13 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">50.</td>
 									<td class="MiddleHolder">Omelet met garnalen</td>
-									<td class="RightHolder">12.50€</td>
+									<td class="RightHolder">13.50€</td>
 								</tr>
 
 								<tr>
 									<td class="LeftHolder">51.</td>
 									<td class="MiddleHolder">Omelet met krab</td>
-									<td class="RightHolder">15.50€</td>
+									<td class="RightHolder">15.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">52.</td>
@@ -587,12 +587,12 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">57.</td>
 									<td class="MiddleHolder">Kipfilet met cashewnoten</td>
-									<td class="RightHolder">12.80€</td>
+									<td class="RightHolder">13.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">58.</td>
 									<td class="MiddleHolder">Kipfilet met diverse groenten</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 
 								<tr>
@@ -603,17 +603,17 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">59.</td>
 									<td class="MiddleHolder">Kipfilet met zwarte bonen saus</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">60.</td>
 									<td class="MiddleHolder">Frisse kipfilet met sesamzaadjes</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">61.</td>
 									<td class="MiddleHolder">Kipfilet met Chinese champignons</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">62.</td>
@@ -628,7 +628,7 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">64.</td>
 									<td class="MiddleHolder">Eend chop shoy</td>
-									<td class="RightHolder">15.90€</td>
+									<td class="RightHolder">16.20€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">65.</td>
@@ -640,7 +640,7 @@ function Menu() {
 									<td class="MiddleHolder">
 										Ribbetjes Peking stijl(licht pikant)
 									</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">67.</td>
@@ -652,17 +652,17 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">68.</td>
 									<td class="MiddleHolder">Ossenhaas met diverse groenten</td>
-									<td class="RightHolder">13.50€</td>
+									<td class="RightHolder">13.90€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">69.</td>
 									<td class="MiddleHolder">Eend met ananas</td>
-									<td class="RightHolder">15.90€</td>
+									<td class="RightHolder">16.20€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">70.</td>
 									<td class="MiddleHolder">Scampi's met diverse groenten</td>
-									<td class="RightHolder">16.90€</td>
+									<td class="RightHolder">17.20€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">70a.</td>
@@ -686,39 +686,39 @@ function Menu() {
 								<tr>
 									<td class="LeftHolder">73.</td>
 									<td class="MiddleHolder">Kikkerbillen met lookboter</td>
-									<td class="RightHolder">16.80€</td>
+									<td class="RightHolder">17.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">74.</td>
 									<td class="MiddleHolder">
 										Kikkerbillen Tieuw Yien(pikant met look)
 									</td>
-									<td class="RightHolder">16.80€</td>
+									<td class="RightHolder">17.30€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">75.</td>
 									<td class="MiddleHolder">Eind met gewokte seizoengroenten</td>
-									<td class="RightHolder">15.90€</td>
+									<td class="RightHolder">16.20€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">77.</td>
 									<td class="MiddleHolder">Geroosterd varkensfilet</td>
-									<td class="RightHolder">12.90€</td>
+									<td class="RightHolder">13.20€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">78.</td>
 									<td class="MiddleHolder">Ribbetjes met zwarte bonensaus</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">79.</td>
 									<td class="MiddleHolder">Ribbetjes met looksaus</td>
-									<td class="RightHolder">11.90€</td>
+									<td class="RightHolder">12.50€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">79a.</td>
 									<td class="MiddleHolder">Ribbetjes Tieuw Yein met look</td>
-									<td class="RightHolder">12.30€</td>
+									<td class="RightHolder">12.80€</td>
 								</tr>
 								<tr>
 									<td class="LeftHolder">80.</td>
