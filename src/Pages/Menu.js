@@ -1003,7 +1003,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">18.50€</td>
+									<td class="MiddleHolder">19.90€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
@@ -1050,7 +1050,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">45.00€</td>
+									<td class="MiddleHolder">47.00€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
@@ -1097,7 +1097,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">51.00€</td>
+									<td class="MiddleHolder">53.00€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
@@ -1149,7 +1149,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">73.00€</td>
+									<td class="MiddleHolder">75.00€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
@@ -1201,7 +1201,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">95.00€</td>
+									<td class="MiddleHolder">98.00€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
@@ -1251,7 +1251,7 @@ function Menu() {
 								</tr>
 								<tr>
 									<td class="LeftHolder"></td>
-									<td class="MiddleHolder">95.00€</td>
+									<td class="MiddleHolder">98.00€</td>
 									<td class="RightHolder"></td>
 								</tr>
 							</table>
