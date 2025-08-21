@@ -825,32 +825,33 @@ function Menu() {
 									<td class="MiddleHolder">Gevlokte garnalenballetjes </td>
 									<td class="RightHolder">9.40€</td>
 								</tr>
-{/*
-<tr>
-	    <td class ="LeftHolder">A4.</td>
-	    <td class ="MiddleHolder">Eend Huing Sow (eend met groenten en zelf op te rollen) </td>
-	    <td class ="RightHolder">9.50€</td>
-	</tr>
-	*/}
+								{/*
 
+    			        <tr>
+    			            <td class ="LeftHolder">A4.</td>
+    			            <td class ="MiddleHolder">Eend Huing Sow (eend met groenten en zelf op te rollen) </td>
+    			            <td class ="RightHolder">9.50€</td>
+    			        </tr>
+    			        */}
 								<tr>
 									<td class="LeftHolder">A5.</td>
 									<td class="MiddleHolder">Mix schotel Hoi Sing </td>
 									<td class="RightHolder">10.50€</td>
 								</tr>
-{/*
-<tr>
-	    <td class ="LeftHolder">A6.</td>
-	    <td class ="MiddleHolder">Gebakken krabscharen </td>
-	    <td class ="RightHolder">8.50€</td>
-	</tr>
-	*/}
+								{/*
 
+    			        <tr>
+    			            <td class ="LeftHolder">A6.</td>
+    			            <td class ="MiddleHolder">Gebakken krabscharen </td>
+    			            <td class ="RightHolder">8.50€</td>
+    			        </tr>
+    			        */}
 								<tr>
 									<td class="LeftHolder">A7.</td>
 									<td class="MiddleHolder">Kikkerbilletjes met lookboter </td>
 									<td class="RightHolder">9.50€</td>
 								</tr>
+
 								<tr>
 									<td class="LeftHolder">A8.</td>
 									<td class="MiddleHolder">Kikkerbilletjes Tieuw Yien </td>
