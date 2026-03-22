@@ -93,7 +93,9 @@ function Home() {
 									borderColor: '#000000',
 								}}
 							/>
-							<p style={{ color: 'red' }}> Wij gaan met pensioen op 22 maart. Wij zijn vanaf dan permament gesloten. Wij willen al onze gasten hartelijk bedanken voor het jarenlange vertrouwen en de fijne momenten samen.</p>
+							<p style={{ color: 'red' }}> Wij zijn open tot en met 31 maart</p>
+
+							<p style={{ color: 'red' }}> Wij gaan met pensioen op <span style={{ textDecoration: 'line-through' }}>22 maart</span>. Wij zijn vanaf dan permament gesloten. Wij willen al onze gasten hartelijk bedanken voor het jarenlange vertrouwen en de fijne momenten samen.</p>
 								
 							<p style={{ color: 'yellow' }}> Wij informeren u dat wij vanaf 2 februari uitsluitend afhaalmaaltijden aanbieden. Het is vanaf dan niet meer mogelijk om binnen te eten. Bedankt voor uw begrip.</p> 
 
